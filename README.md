@@ -52,4 +52,4 @@ config.relErrorBound = EPSILON
 ## run Python code:  compress.py 
 
 
-## Jupyter file code_res.ipynb contains all printed results in report 
+## Jupyter file code_res.ipynb and SZmain.ipynb contains all printed results in report 
